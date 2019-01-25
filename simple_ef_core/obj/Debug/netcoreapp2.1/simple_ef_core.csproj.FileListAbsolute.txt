@@ -1,0 +1,14 @@
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\bin\Debug\netcoreapp2.1\simple_ef_core.deps.json
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\bin\Debug\netcoreapp2.1\simple_ef_core.runtimeconfig.json
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\bin\Debug\netcoreapp2.1\simple_ef_core.runtimeconfig.dev.json
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\bin\Debug\netcoreapp2.1\simple_ef_core.dll
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\bin\Debug\netcoreapp2.1\simple_ef_core.pdb
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.csprojAssemblyReference.cache
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.csproj.CoreCompileInputs.cache
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.RazorAssemblyInfo.cache
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.RazorAssemblyInfo.cs
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.AssemblyInfoInputs.cache
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.AssemblyInfo.cs
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.RazorTargetAssemblyInfo.cache
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.dll
+C:\Users\timoh\OneDrive\blog_theiten\ef\recipes\sample_applications\setup_ef_core\simple_ef_core\obj\Debug\netcoreapp2.1\simple_ef_core.pdb
